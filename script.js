@@ -11,7 +11,7 @@ const translations = {
     projectGames:'Experiencias de aprendizaje mediante videojuegos: mundos, personajes y retos lingüísticos para convertir la práctica del español en una aventura.',workEnd:'Y esto es solo el principio. Nuevas ideas, siempre en construcción.',
     approachLabel:'MI FILOSOFÍA DOCENTE',approachOverline:'MENOS TECNOLOGÍA POR MODA. MÁS APRENDIZAJE CON SENTIDO.',approachHeading:'La innovación comienza con una <em>buena pregunta.</em>',principle1Title:'Personas antes que herramientas',principle1Text:'La tecnología importa cuando ayuda a un estudiante a comprender, expresarse o ganar autonomía.',principle2Title:'Aprender haciendo',principle2Text:'Proyectos reales, retos, creación y reflexión: el alumnado debe ser protagonista de su aprendizaje.',principle3Title:'Conectar mundos',principle3Text:'Los idiomas abren puertas a otras culturas, experiencias y maneras de mirar el mundo.',
     journeyLabel:'UN RECORRIDO INTERNACIONAL',journeyHeading:'Tres países. <em>Una vocación.</em>',journeySpain:'Formación y primeros años de docencia en Cádiz.',journeyItaly:'Enseñanza de idiomas en un entorno internacional.',journeyIreland:'Docencia de español en secundaria, Erasmus+ e innovación educativa.',journeyNote:'Desde 2018 · Ardgillan Community College · Skerries Community College en 2017',
-    contactLabel:'EL PRÓXIMO CAPÍTULO',contactOverline:'¿UNA IDEA, UN PROYECTO, UNA CONVERSACIÓN?',contactHeading:'Las buenas ideas empiezan <em>conectando.</em>',contactNote:'Abierto a conversaciones sobre enseñanza de idiomas, proyectos internacionales e innovación educativa.',mobilityErasmusTitle:'Movilidad y formación europea',mobilityErasmusText:'Formación docente AI Essentials en Malta; coordinación de una movilidad de estudiantes a Mendavia; preparación del próximo intercambio con Amor de Dios, Cádiz, previsto para mayo de 2027.',mobilityTripsLabel:'VIAJES EDUCATIVOS',mobilityTripsTitle:'Aprender más allá del aula',mobilityTripsText:'Organización anual de un viaje escolar a Málaga con 53 estudiantes de 2nd Year. Profesor acompañante en un viaje de 30 alumnos a Sorrento, Nápoles y Capri, aportando apoyo lingüístico en italiano. En el próximo viaje escolar a Japón durante Semana Santa actuaré como responsable de grupo (group leader): supervisión del alumnado y planificación de la distribución de habitaciones, atendiendo a preferencias y criterios de inclusión.',contactProjects:'VER PROYECTOS',backTop:'VOLVER ARRIBA'
+    contactLabel:'EL PRÓXIMO CAPÍTULO',contactOverline:'¿UNA IDEA, UN PROYECTO, UNA CONVERSACIÓN?',contactHeading:'Las buenas ideas empiezan <em>conectando.</em>',contactNote:'Abierto a conversaciones sobre enseñanza de idiomas, proyectos internacionales e innovación educativa.',mobilityErasmusTitle:'Movilidad y formación europea',mobilityErasmusText:'Formación docente AI Essentials en Malta; coordinación de una movilidad de estudiantes a Mendavia; preparación del próximo intercambio con Amor de Dios, Cádiz, previsto para mayo de 2027.',mobilityTripsLabel:'VIAJES EDUCATIVOS',mobilityTripsTitle:'Aprender más allá del aula',mobilityTripsText:'Organización anual de un viaje escolar a Málaga con 53 estudiantes de 2nd Year. Profesor acompañante en un viaje de 30 alumnos a Sorrento, Nápoles y Capri, aportando apoyo lingüístico en italiano. En el próximo viaje escolar a Japón durante Semana Santa actuaré como responsable de grupo (group leader): supervisión del alumnado y planificación de la distribución de habitaciones, atendiendo a preferencias y criterios de inclusión.',contactProjects:'VER PROYECTOS',formHeading:'¿Hablamos?',formIntro:'Si tienes una propuesta, una oportunidad profesional o una idea para colaborar, puedes escribirme aquí.',formName:'Nombre',formEmail:'Correo electrónico',formSubject:'Asunto',formMessage:'Mensaje',formPrivacy:'Los datos que envíes se utilizarán únicamente para responder a tu consulta. El formulario se procesa mediante Formspree.',formSend:'ENVIAR MENSAJE',formSending:'ENVIANDO…',formSuccess:'¡Mensaje enviado! Gracias por contactar. Te responderé en cuanto pueda.',formError:'No se ha podido enviar el mensaje. Inténtalo de nuevo más tarde.',backTop:'VOLVER ARRIBA'
   },
   en: {
     skip:'Skip to content',navAbout:'About',navWork:'Projects',navApproach:'Approach',navContact:'Contact',getInTouch:'Let’s connect',
@@ -25,7 +25,7 @@ const translations = {
     projectGames:'Game-based language learning experiences with worlds, characters and challenges that turn Spanish practice into an adventure.',workEnd:'And this is only the beginning. New ideas are always taking shape.',
     approachLabel:'MY TEACHING PHILOSOPHY',approachOverline:'LESS TECHNOLOGY FOR ITS OWN SAKE. MORE LEARNING THAT MATTERS.',approachHeading:'Innovation begins with <em>a good question.</em>',principle1Title:'People before tools',principle1Text:'Technology matters when it helps a learner understand, express themselves or become more independent.',principle2Title:'Learning by doing',principle2Text:'Real projects, challenges, creation and reflection: students should take an active role in their learning.',principle3Title:'Connecting worlds',principle3Text:'Languages open doors to other cultures, experiences and ways of seeing the world.',
     journeyLabel:'AN INTERNATIONAL JOURNEY',journeyHeading:'Three countries. <em>One vocation.</em>',journeySpain:'Training and early teaching experience in Cádiz.',journeyItaly:'Language teaching in an international environment.',journeyIreland:'Secondary Spanish teaching, Erasmus+ and educational innovation.',journeyNote:'Since 2018 · Ardgillan Community College · Skerries Community College in 2017',
-    contactLabel:'THE NEXT CHAPTER',contactOverline:'AN IDEA, A PROJECT, A CONVERSATION?',contactHeading:'Good ideas start <em>with a connection.</em>',contactNote:'Open to conversations about language education, international projects and meaningful educational innovation.',mobilityErasmusTitle:'European mobility and development',mobilityErasmusText:'AI Essentials staff training in Malta; coordination of a student mobility to Mendavia; planning the next exchange with Amor de Dios in Cádiz for May 2027.',mobilityTripsLabel:'EDUCATIONAL TRIPS',mobilityTripsTitle:'Learning beyond the classroom',mobilityTripsText:'Annual organiser of a Málaga school trip for 53 second-year students. Accompanying teacher on a trip for 30 students to Sorrento, Naples and Capri, providing Italian-language support. On the upcoming Easter school trip to Japan, I will act as a group leader: supervising students and planning room allocations with attention to student preferences and inclusion.',contactProjects:'VIEW PROJECTS',backTop:'BACK TO TOP'
+    contactLabel:'THE NEXT CHAPTER',contactOverline:'AN IDEA, A PROJECT, A CONVERSATION?',contactHeading:'Good ideas start <em>with a connection.</em>',contactNote:'Open to conversations about language education, international projects and meaningful educational innovation.',mobilityErasmusTitle:'European mobility and development',mobilityErasmusText:'AI Essentials staff training in Malta; coordination of a student mobility to Mendavia; planning the next exchange with Amor de Dios in Cádiz for May 2027.',mobilityTripsLabel:'EDUCATIONAL TRIPS',mobilityTripsTitle:'Learning beyond the classroom',mobilityTripsText:'Annual organiser of a Málaga school trip for 53 second-year students. Accompanying teacher on a trip for 30 students to Sorrento, Naples and Capri, providing Italian-language support. On the upcoming Easter school trip to Japan, I will act as a group leader: supervising students and planning room allocations with attention to student preferences and inclusion.',contactProjects:'VIEW PROJECTS',formHeading:'Let’s talk',formIntro:'Have a proposal, a professional opportunity or an idea for collaboration? Send me a message here.',formName:'Name',formEmail:'Email address',formSubject:'Subject',formMessage:'Message',formPrivacy:'Your details will only be used to reply to your enquiry. This form is processed by Formspree.',formSend:'SEND MESSAGE',formSending:'SENDING…',formSuccess:'Message sent! Thank you for reaching out. I’ll get back to you as soon as I can.',formError:'The message could not be sent. Please try again later.',backTop:'BACK TO TOP'
   }
 };
 
@@ -54,3 +54,38 @@ let savedLanguage = 'es';
 try { savedLanguage = localStorage.getItem('portfolio-language') || (navigator.language?.startsWith('en') ? 'en' : 'es'); } catch (_) {}
 setLanguage(savedLanguage === 'en' ? 'en' : 'es');
 document.querySelector('#year').textContent = String(new Date().getFullYear());
+
+const portfolioForm = document.querySelector('#portfolio-contact-form');
+const portfolioStatus = document.querySelector('#contact-form-status');
+if (portfolioForm && portfolioStatus) {
+  portfolioForm.addEventListener('submit', async (event) => {
+    event.preventDefault();
+    const lang = document.documentElement.lang === 'en' ? 'en' : 'es';
+    const dictionary = translations[lang];
+    const button = portfolioForm.querySelector('button[type="submit"]');
+    const buttonText = button.querySelector('span');
+    const data = new FormData(portfolioForm);
+    if (data.get('_gotcha')) return;
+    button.disabled = true;
+    buttonText.textContent = dictionary.formSending;
+    portfolioStatus.hidden = true;
+    portfolioStatus.classList.remove('is-error');
+    try {
+      const response = await fetch(portfolioForm.action, {
+        method: 'POST',
+        body: data,
+        headers: { 'Accept': 'application/json' }
+      });
+      if (!response.ok) throw new Error('Form submission failed');
+      portfolioForm.reset();
+      portfolioStatus.textContent = dictionary.formSuccess;
+    } catch (_) {
+      portfolioStatus.textContent = dictionary.formError;
+      portfolioStatus.classList.add('is-error');
+    } finally {
+      portfolioStatus.hidden = false;
+      button.disabled = false;
+      buttonText.textContent = dictionary.formSend;
+    }
+  });
+}
