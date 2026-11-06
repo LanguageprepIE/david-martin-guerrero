@@ -22,3 +22,10 @@
 .edu-glossary[open] summary{margin-bottom:12px}
 .edu-glossary p{margin:0;padding:15px 18px;background:#eaf0e7;border-left:2px solid #537c67;color:#345448;font:13px/1.7 var(--sans)}
 html[lang="en"] .edu-glossary{display:none}
+
+
+/* School-wide digital leadership and peer learning */
+.leadership-panel{margin:90px 0 55px;padding:clamp(26px,4vw,62px);background:#e8ece4;border:1px solid #bac6b9}
+.leadership-heading{max-width:830px}.leadership-eyebrow{font:11px var(--mono);color:#a16c4c;letter-spacing:.15em}.leadership-heading h3{font:500 clamp(34px,4vw,61px)/1.13 var(--serif);letter-spacing:-.045em;margin:22px 0}.leadership-heading h3 em{color:#a16c4c}.leadership-heading>p{font:15px/1.75 var(--sans);color:#51665b;max-width:640px}
+.leadership-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-top:45px}.leadership-card{background:#fbfaf6;border:1px solid #c6cdbf;padding:clamp(23px,2.5vw,35px);min-width:0}.leadership-icon{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #ced5c9;padding-bottom:23px;margin-bottom:27px}.leadership-icon>span:first-child{font:36px var(--serif)}.leadership-icon-small{font:10px var(--mono);color:#8b775f;letter-spacing:.1em}.leadership-kicker{font:10px var(--mono);letter-spacing:.11em;color:#a16c4c}.leadership-card h4{font:500 clamp(25px,2.2vw,34px)/1.2 var(--serif);letter-spacing:-.03em;margin:15px 0}.leadership-card p{font:14px/1.8 var(--sans);color:#536b5c;margin:0}
+@media(max-width:760px){.leadership-panel{margin:55px 0 30px;padding:28px 19px}.leadership-grid{grid-template-columns:1fr;gap:15px;margin-top:30px}.leadership-card{padding:23px}.leadership-heading h3{font-size:36px}}
